@@ -54,7 +54,7 @@ I'm actively seeking to contribute to forward-thinking teams that thrive on coll
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### 📐 ML Mathematics
+#### 📐 Mathematical Concepts for ML
 Linear Algebra • Probability & Statistics • Calculus • Optimization
 
 ---
